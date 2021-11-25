@@ -1,6 +1,11 @@
+##How long do you live?
 totalSpan=85
+#Calculations will be based on how subjectively long this year felt
 compareYear=14
+##What percentage of your total life will have subjectively passed
 percentageYear=35
+
+
 percentageLeft=0;
 
 

@@ -1,3 +1,5 @@
+/** 
+
 let totalSpan=125;
 let compareYear=18;
 
@@ -14,3 +16,5 @@ const calcLifespan = (totalSpan, compareYear) =>{
 }
 
 calcLifespan(totalSpan,compareYear);
+
+*/
