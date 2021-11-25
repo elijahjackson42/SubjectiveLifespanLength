@@ -1,9 +1,6 @@
 /** 
-
 let totalSpan=125;
 let compareYear=18;
-
-
 const calcLifespan = (totalSpan, compareYear) =>{
     let subjectiveYear=1/compareYear
     let total=0;
@@ -14,7 +11,5 @@ const calcLifespan = (totalSpan, compareYear) =>{
     console.log(total);
     console.log(total/subjectiveYear);
 }
-
 calcLifespan(totalSpan,compareYear);
-
 */
